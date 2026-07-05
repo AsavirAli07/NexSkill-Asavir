@@ -1,0 +1,94 @@
+body{
+    min-width: fit-content;
+    max-width: fit-content;
+}
+table{
+    margin-left: 10%;
+}
+.table-height{
+    position: fixed;
+}
+.heading{
+    
+    text-align: center;
+    text-decoration: underline;
+}
+.table-height{
+    top: 20%;
+    left: 43%;
+}
+.space{
+    width: 70px;
+}
+.table-height{
+    transform: translate(-50%, -50%) rotate(0deg);
+    font-size: 60px;
+}
+td{
+    margin: 0;
+    padding: 0;
+    width: 85px;
+    height: 60px;
+    font-weight: bolder;
+}
+.table-height{
+    color: rgba(0, 0, 0, 0.014);
+    font-weight: bold;
+}
+.bot{
+    font-size: small;
+}
+.table-height{
+    
+    pointer-events: none;
+    user-select: none;
+}
+.mid{
+    font-size: xx-large;
+    margin-top: -10px;
+}
+sup{
+    font-size: small;
+}
+.table-height{
+    z-index: -1;
+    white-space: nowrap;
+}
+.blue{
+    background: rgb(115, 185, 250);
+    color: rgb(65, 23, 216);
+}
+.red{
+    background-color: rgb(238, 167, 155);
+    color: rgb(173, 6, 6);
+}
+.li-blue{
+    background-color: rgb(127, 222, 252);
+    color: rgb(24, 119, 173);
+}
+.purple{
+    background-color: rgb(199, 169, 255);
+    color: rgb(104, 16, 131);
+}
+.yellow{
+    background-color: rgb(247, 239, 213);
+    color: rgb(141, 85, 32);
+}
+.green{
+    background-color: rgb(174, 245, 192);
+    color: rgb(21, 95, 40);
+}
+.dark-blue{
+    background-color: rgb(181, 207, 236);
+    color: rgb(30, 60, 78);
+}
+.orange{
+    background-color: rgb(255, 213, 180);
+    color: rgb(209, 59, 21);
+}
+.grey{
+    background-color: rgb(230, 228, 228);
+    color: rgb(77, 76, 76);
+}
+
+
